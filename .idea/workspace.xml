@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2415475-6e64-45ce-a694-0da79e26deaa" name="Default Changelist" comment="sistemato metodo per la simulazione. Non c'è showPetriNet">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c2415475-6e64-45ce-a694-0da79e26deaa" name="Default Changelist" comment="inseriti alcuni commenti">
+      <change afterPath="$PROJECT_DIR$/UML_V4.puml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Project_v4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project_v4/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,9 +38,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Class" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Project_IS_v3_jar.xml" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.13157892" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -110,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624876466743</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="inseriti alcuni commenti">
+      <created>1624904761727</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624904761727</updated>
+    </task>
+    <task id="LOCAL-00008" summary="inseriti alcuni commenti">
+      <created>1624904810809</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1624904810809</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,7 +153,8 @@
     <MESSAGE value="json aggiustato, elmenti modificati, possibile problema stampa" />
     <MESSAGE value="aggiustato un metodo per la simulazione" />
     <MESSAGE value="modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò" />
-    <option name="LAST_COMMIT_MESSAGE" value="modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò" />
+    <MESSAGE value="inseriti alcuni commenti" />
+    <option name="LAST_COMMIT_MESSAGE" value="inseriti alcuni commenti" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

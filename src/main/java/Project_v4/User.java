@@ -119,7 +119,12 @@ public class User {
              }
          } while (!check );
     }
-
+    /**this method call the method that give the initial situation and then it
+     * asks to the user to choose a transition avabile
+     * @param sel the Petri Net with priority which we are made the simulation
+     * @param initialMark the initial situazion in that moment
+     * @return true if there are some transitions avaibile, false if there aren't any
+     */
     private boolean startSimulationPriority(PriorityPetriNet sel, ArrayList<Pair> initialMark) {
         HashMap<Transition, ArrayList<Pair>> finalTrans = sel.simulation( initialMark);
 //we have made all the checks, so in transitionThatCanWork there are the transitions that  we can use for the simulation
@@ -140,6 +145,13 @@ public class User {
         }
         return  true;
     }
+
+    /**this method call the method that give the initial situation and then it
+     * asks to the user to choose a transition avabile
+     * @param pN the Petri Net which we are made the simulation
+     * @param initialMark the initial situazion in that moment
+     * @return true if there are some transitions avaibile, false if there aren't any
+     */
     public boolean startSimulation(PetriNet pN, ArrayList<Pair> initialMark) {
 
         HashMap<Transition, ArrayList<Pair>> finalTrans = pN.simulation(initialMark);

@@ -139,9 +139,7 @@ public class Transition {
         assert obj instanceof Transition;
         Transition t = (Transition) obj;
         if (name.equals(t.getName())) {
-            if(t.getIdPost().contains(idPost) && t.getIdPre().contains(idPre)){
-                return true;
-            }
+            return true;
         }
         return false;
     }

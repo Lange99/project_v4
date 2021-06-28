@@ -69,8 +69,8 @@ public class User {
                         // simulation(selected, loadNetPetri.get(select - 1).getInitialMark());
                          boolean canContinue;
                          do{
-
-                            canContinue= startSimulation(selected, selected.getInitialMark());
+                             selected.saveInitialMarkCurretly();
+                             canContinue=   startSimulation(selected, selected.getInitialMarkCurrenly());
 
                          }while (canContinue==true && IO.yesOrNo(IO.DO_YOU_WANT_TO_CONTINUE_THE_SIMULATION));
                      }

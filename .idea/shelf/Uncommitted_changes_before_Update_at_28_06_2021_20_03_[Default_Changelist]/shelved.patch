@@ -1,0 +1,64 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"c2415475-6e64-45ce-a694-0da79e26deaa\" name=\"Default Changelist\" comment=\"modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò\">\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/Project_v4/PetriNet.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/Project_v4/PetriNet.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/Project_v4/PriorityPetriNet.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/Project_v4/PriorityPetriNet.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/Project_v4/User.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/Project_v4/User.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitSEFilterConfiguration\">\r\n    <file-type-list>\r\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\r\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\r\n      <filtered-out-file-type name=\"TAG\" />\r\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\r\n    </file-type-list>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1uRlIqocElT4tnZZWOji4dwIp3k\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$USER_HOME$/Desktop/Project_IS_v3_jar.xml\" />\r\n    <property name=\"project.structure.last.edited\" value=\"Artifacts\" />\r\n    <property name=\"project.structure.proportion\" value=\"0.13157892\" />\r\n    <property name=\"project.structure.side.proportion\" value=\"0.2\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"main.java.Project_v4.Main\" />\r\n      <module name=\"Project_IS_v3\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"main.java.Project_v4.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.Main\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"c2415475-6e64-45ce-a694-0da79e26deaa\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1624636205620</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1624636205620</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"modificato metodo di simulazione, e elementi in user\">\r\n      <created>1624726504562</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624726504562</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"c'è un errore ma ho inserito le robe che servivano, l'errore è in JsonRea\">\r\n      <created>1624805770185</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624805770185</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"JSON QUALCOSA COMMENTATO, modifica del metodo per la simulazione\">\r\n      <created>1624828054612</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624828054612</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"json aggiustato, elmenti modificati, possibile problema stampa\">\r\n      <created>1624831709838</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624831709838</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"aggiustato un metodo per la simulazione\">\r\n      <created>1624833869671</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624833869671</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò\">\r\n      <created>1624876466743</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1624876466743</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"7\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"modificato metodo di simulazione, e elementi in user\" />\r\n    <MESSAGE value=\"c'è un errore ma ho inserito le robe che servivano, l'errore è in JsonRea\" />\r\n    <MESSAGE value=\"JSON QUALCOSA COMMENTATO, modifica del metodo per la simulazione\" />\r\n    <MESSAGE value=\"json aggiustato, elmenti modificati, possibile problema stampa\" />\r\n    <MESSAGE value=\"aggiustato un metodo per la simulazione\" />\r\n    <MESSAGE value=\"modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/Project_v4/User.java</url>\r\n          <line>109</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/Project_v4/User.java</url>\r\n          <line>40</line>\r\n          <option name=\"timeStamp\" value=\"4\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/Project_v4/PetriNet.java</url>\r\n          <line>259</line>\r\n          <option name=\"timeStamp\" value=\"6\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision fd73fd15da19d8d167fec97b505c72198e8a6899)
++++ b/.idea/workspace.xml	(date 1624892684745)
+@@ -4,10 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c2415475-6e64-45ce-a694-0da79e26deaa" name="Default Changelist" comment="modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò">
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Project_v4/PetriNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project_v4/PetriNet.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Project_v4/PriorityPetriNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project_v4/PriorityPetriNet.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/Project_v4/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Project_v4/User.java" afterDir="false" />
++    <list default="true" id="c2415475-6e64-45ce-a694-0da79e26deaa" name="Default Changelist" comment="sistemato metodo per la simulazione. Non c'è showPetriNet">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -110,7 +108,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1624876466743</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="sistemato metodo per la simulazione">
++      <created>1624889514073</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1624889514073</updated>
++    </task>
++    <task id="LOCAL-00008" summary="sistemato metodo per la simulazione. Non c'è showPetriNet">
++      <created>1624889693238</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1624889693238</updated>
++    </task>
++    <task id="LOCAL-00009" summary="sistemato metodo per la simulazione. Non c'è showPetriNet">
++      <created>1624889724262</created>
++      <option name="number" value="00009" />
++      <option name="presentableId" value="LOCAL-00009" />
++      <option name="project" value="LOCAL" />
++      <updated>1624889724262</updated>
++    </task>
++    <option name="localTasksCounter" value="10" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -132,7 +151,9 @@
+     <MESSAGE value="json aggiustato, elmenti modificati, possibile problema stampa" />
+     <MESSAGE value="aggiustato un metodo per la simulazione" />
+     <MESSAGE value="modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò" />
+-    <option name="LAST_COMMIT_MESSAGE" value="modificato valore di ritorno in modo che sia un booleab e l'utente non continui a ciclare quando non uò" />
++    <MESSAGE value="sistemato metodo per la simulazione" />
++    <MESSAGE value="sistemato metodo per la simulazione. Non c'è showPetriNet" />
++    <option name="LAST_COMMIT_MESSAGE" value="sistemato metodo per la simulazione. Non c'è showPetriNet" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
